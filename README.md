@@ -7,4 +7,4 @@
 - Mercedes MP4 (Gigaspace) `67629`
 - Iveco S-Way `68971`
 - MAN TGX 2020 (GX) `67806`
-- Daf XF 106 (Super Space) `69797`
+- DAF XF 106 (Super Space) `69797`
