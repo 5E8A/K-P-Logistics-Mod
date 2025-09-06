@@ -2,27 +2,29 @@
 ## Wspierane wersje: 
 - 1.55.x
 - 1.56.x
-## Dostępne Malowania:
-- Renault Magnum `69805`
-- Renault Premium `69806`
-- Renault T (High) `67407`
-- Mercedes Actros MP3 `69804`
-- Mercedes Actros MP4 `67629`
-- Scania R 2009 `70079`
-- Scania Streamline `67660`
-- Scania S 2016 `67892`
-- Scania R 2016 `70080`
-- MAN TGX Euro5 `69801`
-- MAN TGX Euro6 `69802`
-- MAN TGX 2020 `67806`
-- DAF XF 105 `69798`
-- DAF XF 106 `69797`
-- DAF XD `69349`
-- DAF 2021 `69795`
-- Iveco Stralis `69800`
-- Iveco Hi-Way `69799`
-- Iveco S-Way `68971`
-- Volvo FH3 `70081`
-- Volvo FH4 `70082`
-- Volvo FH5 `70083`
-- Volvo FH6 `69920`
+<details>
+  <summary><b>Malowania ETS2</b></summary>
+<li>Renault Magnum <code>69805</code> <br>
+<li> Renault Premium <code>69806</code> <br>
+<li> Renault T (High) <code>67407</code> <br>
+<li> Mercedes Actros MP3 <code>69804</code> <br>
+<li> Mercedes Actros MP4 <code>67629</code> <br>
+<li>Scania R 2009 <code>70079</code> <br>
+<li>Scania Streamline <code>67660</code> <br>
+<li>Scania S 2016 <code>67892</code> <br>
+<li>Scania R 2016 <code>70080</code> <br>
+<li>MAN TGX Euro5 <code>69801</code> <br>
+<li>MAN TGX Euro6 <code>69802</code> <br>
+<li>MAN TGX 2020 <code>67806</code> <br>
+<li>DAF XF 105 <code>69798</code> <br>
+<li>DAF XF 106 <code>69797</code> <br>
+<li>DAF XD <code>69349</code> <br>
+<li>DAF 2021 <code>69795</code> <br>
+<li>Iveco Stralis <code>69800</code> <br>
+<li>Iveco Hi-Way <code>69799</code> <br>
+<li>Iveco S-Way <code>68971</code> <br>
+<li>Volvo FH3 <code>70081</code> <br>
+<li>Volvo FH4 <code>70082</code> <br>
+<li>Volvo FH5 <code>70083</code> <br>
+<li>Volvo FH6 <code>69920</code> <br>
+</details>
